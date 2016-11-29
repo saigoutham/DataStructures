@@ -1,0 +1,6 @@
+1.Insert at any position
+2.Delete at any position
+3.Traversal without recursion
+4.Traversal with recursion
+5.same programs using Doubly linked list
+6.same programs using circular linked list
